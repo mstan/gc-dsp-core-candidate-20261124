@@ -1,5 +1,7 @@
 # gc-dsp-core
 
+Current licensing and the grant for existing owner contributions are documented in [LICENSE-SCOPE.md](LICENSE-SCOPE.md).
+
 Shared GameCube/Wii DSP low-level interpreter and static AOT support, extracted
 without source changes from `mstan/gcnllr` commit
 `f07bfb9515082a964c36a4bbafb095dbb2d584b7`, directory
